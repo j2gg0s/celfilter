@@ -61,7 +61,6 @@ var allowedFns = map[string]bool{
 	operators.Multiply: true,
 	operators.Divide:   true,
 	operators.Modulo:   true,
-	operators.Negate:   true,
 
 	overloads.StartsWith: true,
 	overloads.EndsWith:   true,
